@@ -1,0 +1,33 @@
+body {
+    height: 50vh;
+    margin:0;
+    display: grid;
+    place-items: center;
+    background-color: #9cab9b;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+button {
+    font-size: 2rem;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 20px;
+    border-radius: 15px;
+    font-style: italic;
+    transition-duration: .4s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4c5e4b;
+    color: #fff;
+}
+
+h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    display: none;
+}
