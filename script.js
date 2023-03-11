@@ -38,6 +38,21 @@ button.addEventListener("click", getWord);
         'stop',
         'lady',
         'love',
+        'think',
+        'magic',
+        'beautiful',
+        'sorry',
+        'flower',
+        'hot',
+         'say',
+         'heart',
+        'moon',
+        'somebody',
+        'endless',
+        'you',
+        'only',
+        'play',
+        'money',
       ];
 
       
