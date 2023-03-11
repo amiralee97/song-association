@@ -53,6 +53,15 @@ button.addEventListener("click", getWord);
         'only',
         'play',
         'money',
+        'bless',
+        'new',
+        'cry',
+        'looking',
+        'sunshine',
+        'push',
+        'tonight',
+        'anymore',
+        'make',
       ];
 
       
